@@ -61,6 +61,7 @@ To run the tests using pytest, execute the following command:
 
 
 `pytest Tests/qa_selenium_test.py`
+
 This will automatically detect the test methods suffixed with _test and execute them.
 
 ## Test Output:
